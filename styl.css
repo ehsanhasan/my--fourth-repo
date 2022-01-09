@@ -4,3 +4,9 @@ p{
 p{
     color: chartreuse;
 }
+    h1{
+        background-color: coral;
+    }
+    h3{
+        color: cyan;
+    }
